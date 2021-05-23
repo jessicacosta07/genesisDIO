@@ -1,2 +1,2 @@
 # genesisDIO
-Projeto do Bootcamp JavaScript Game Develor
+Projeto do Bootcamp JavaScript Game Developer
