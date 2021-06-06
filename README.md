@@ -4,4 +4,4 @@ Projeto do Bootcamp JavaScript Game Developer
 
 Você clica na cores a medida que avança de fase 
 
-Linguagem utilizada: JavaScript, HTML e CSS
+Linguagens utilizadas: HTML, CSS e JavaScript
