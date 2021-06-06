@@ -2,6 +2,6 @@
 # genesisDIO
 Projeto do Bootcamp JavaScript Game Developer
 
-Você clica na cores a medida que vai mudando de fase 
+Você clica na cores a medida que avança de fase 
 
 Linguagem utilizada: JavaScript, HTML e CSS
