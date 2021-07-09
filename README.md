@@ -1,5 +1,5 @@
 
-# Jogo Gênesis
+# Jogo Genêsis
 
 Projeto do Bootcamp JavaScript Game Developer
 
